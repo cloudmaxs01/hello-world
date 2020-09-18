@@ -50,9 +50,16 @@ Thumbs.db
 *.der
 *.key
 *.pem
-
+# Access Kay
+*.key
+*.pem
+*.der
+*.txt
+keep_config/
 # -------------------------
 # BEGIN Whitelisted Files
 # -------------------------
-*.txt
-keep_config/
+# track these files, if they exist
+!.gitignore
+!.editorconfig
+!.phpcs.xml.dist
