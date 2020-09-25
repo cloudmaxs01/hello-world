@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1> Hello, Welcome to Valaxy Technologies !!! </h1>
 <h2> Deploying on Kubernetes </h2>
 <h3> One last test </h3>
@@ -6,9 +5,3 @@
 EBS-Optimized instances enable Amazon EC2 instances to fully utilize the IOPS provisioned on an EBS volume. EBS-Optimized instances deliver dedicated throughput between Amazon EC2 and Amazon EBS, with options between 500 Mbps and 1000 Mbps depending on the instance type used. When attached to EBS-Optimized instances, Provisioned IOPS volumes are designed to deliver within 10% of their provisioned performance 99.9% of the time. Pricing for supported instance types is listed below.
 
 The hourly price for EBS-Optimized instances is in addition to the hourly usage fee for supported instance types</h2>
-=======
-<h1> Hello, Welcome to Cloudmaxs Technologies !!! </h1>
-<h2> Deploying on Tomcat </h2>
-<h3> testing on tomcat for now </h3>
-<h3>Next will be k8n </h3>
->>>>>>> 7fbde456cf4382b33e43aedb945c8b0fd756274b
