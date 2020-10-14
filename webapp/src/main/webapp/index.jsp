@@ -1,4 +1,6 @@
 <h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h2>SSH: Transferred 0 file(s)</h2>
+<h2>war file getting generate but did not get transferred.</h2>
 <h2> Deploying on Kubernetes </h2>
 <h3> One last test </h3>
 <h2>  Amazon EC2 EBS-Optimized Instances</h2>
